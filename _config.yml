@@ -1,6 +1,6 @@
-name: DomSherlock
+name: Dom Sherlock
 favicon: null
-layout_spectrum: 0.75421
+layout_spectrum: 0.23458
 typography_spectrum: 0.7387744269799441
 title: This could be the greatest thing on the internet
 cta:
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.1591101991944015
+  brandStrength: 0.5
   lightness: 0
   saturation: 1
   rhythmicContrast: 1
